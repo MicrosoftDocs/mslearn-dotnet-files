@@ -39,7 +39,7 @@ namespace files_module
                     salesFiles.Add(file);
                 }
             }
-            return salesFiles; // Return the contents to "salesfile" to memory
+            return salesFiles; // Return the contents of "salesfile" to memory
         }//findFiles
     }//Program
 }//files_module
